@@ -1,0 +1,6 @@
+{
+  "name": "API: Timestamp Microservice",
+  "description": "Microservice for date string/UNIX time conversion",
+  "repository": "https://github.com/tommasobertagnin/timest-microsr",
+  "keywords": ["node", "express", "static"]
+}
